@@ -1,5 +1,7 @@
 //TODO: musimy dodac brakujace klasy
 
+//OK, dodam adder a, orest doda substractor
+
 public class Main {
     public static void main(String[] args) {
         Adder adder = new Adder();
